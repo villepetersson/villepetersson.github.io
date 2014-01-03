@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Ville
+tagline:          'Hugo Petersson'
+description:      ''
+url:              http://villep.se
+
+author:
+  name:           'Ville Petersson'
+  url:            http://villep.se
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/villepetersson
