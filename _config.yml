@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Ville
-tagline:          'Hugo Petersson'
+title:            'Ville Petersson.'
+tagline:          'Ville Petersson.'
 description:      ''
 url:              http://villep.se
 
@@ -16,6 +16,8 @@ author:
   url:            http://villep.se
 
 paginate:         5
+paginate_path:    'posts/page:num'
+
 
 # Custom vars
 version:          2.0.0
