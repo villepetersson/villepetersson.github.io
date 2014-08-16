@@ -54,7 +54,7 @@ html {
 }
 @media (min-width: 38rem) {
   html {
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
@@ -98,6 +98,10 @@ h3 {
 h4, h5, h6 {
   margin-top: 1rem;
   font-size: 1rem;
+}
+
+h2 a {
+  color: #313131;
 }
 
 /* Body text */
@@ -304,6 +308,16 @@ tbody tr:nth-child(odd) th {
 .post {
   margin-bottom: 4em;
 }
+
+.post img {
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.top-heading h2 {
+  text-align: center;
+} 
 
 /* Blog post or page title */
 .page-title,
