@@ -306,7 +306,7 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-bottom: 2em;
 }
 
 .post img {
@@ -316,6 +316,10 @@ tbody tr:nth-child(odd) th {
 }
 
 .top-heading h2 {
+  text-align: center;
+} 
+.top-heading span {
+  display: block;
   text-align: center;
 } 
 

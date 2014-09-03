@@ -10,4 +10,6 @@ Developed a local iOS club guide for Chalmers University of Technology. During p
 
 ![screenshots](/assets/krogkollen-2.png)
 
+The first version was developed in short time, less than two weeks, but yet with attention given to detail.
+
 To fetch the app, check out the [Krogkollen splashpage](http://bit.ly/krogkollen).
