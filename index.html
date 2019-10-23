@@ -3,9 +3,14 @@ layout: default
 title: about
 ---
 
-{% capture aboutme %}{% include aboutme.md %}{% endcapture %}
+{% capture mountainsports %}{% include mountainsports.md %}{% endcapture %}
+{% capture yellowishh %}{% include yellowishh.md %}{% endcapture %}
 
 <div class="post">
-{{ aboutme | markdownify }}
+    {{ mountainsports | markdownify }}
 </div>
 
+<div class="post">
+    {{ yellowishh | markdownify }}
+</div>
+            
